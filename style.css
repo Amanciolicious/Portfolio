@@ -131,7 +131,12 @@
        }
        .nav-bar ul li a {
            margin-bottom: 12px;
+       } 
+     
+      #contact .contact-box .details-box {
+           margin-top: 40px;
        }
+     
    }
    
    @media only screen and (max-width: 800px) {
