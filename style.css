@@ -475,7 +475,11 @@
        background: #f0f0f0;
        padding: 4rem 0;
    }
-   
+
+   #contact .contact-box .contact-info {
+       padding: 0 1rem;
+   }
+
    #contact .contact-box .contact-info h1 {
        font-size: 2rem;
        font-weight: 800;
