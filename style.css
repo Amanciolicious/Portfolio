@@ -55,9 +55,9 @@ html, body {
        display: block;
        color: #11101b;
        font-size: 15px;
-       padding: 9px 18px;
+       padding: 9px 15px;
        border-radius: 50px;
-       margin: 0 2px;
+      
        transition: .5s;
    }
    
