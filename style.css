@@ -372,17 +372,8 @@
    }
    
    #services .box-details:hover {
-       transition: 0.5s ease-in;
-       animation: circle 1.6s;
-   }
-   
-   @keyframes circle {
-       from {
-           transform: rotate(10deg);
-       }
-       to {
-           transform: rotate(0);
-       }
+       border: 3px solid #4361ee;
+       box-shadow: 0 0 5px rgba(0, 0, 0, 0.7);
    }
    
    #services .services-box .box-details {
