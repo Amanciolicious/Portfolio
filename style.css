@@ -33,7 +33,7 @@ html, body {
        box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
    }
    
-   header .logo {
+   header a .logo {
        font-size: 24px;
        font-weight: 800;
        padding-left: 40px;
@@ -45,7 +45,7 @@ html, body {
    }
    
    .nav-bar {
-       margin-right: 50px; 
+       margin-right: 70px; 
    }
    
    .nav-bar ul {
