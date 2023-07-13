@@ -19,9 +19,7 @@
        width: 100%;
        background: #1111;
        display: flex;
-       justify-content: space-between;
-       align-items: center;
-       height: 60px;
+       padding: 0 4rem;
        box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
    }
    
@@ -37,7 +35,7 @@
    }
    
    .nav-bar {
-       padding: 0 1rem;  
+       padding: 0 3rem;  
    }
    
    .nav-bar ul {
