@@ -5,6 +5,7 @@
        text-decoration: none;
        list-style: none;
        font-family: 'Exo 2', sans-serif;
+  
    }
    
    body {
@@ -16,6 +17,7 @@
        position: fixed;
        z-index: 9999;
        width: 100%;
+       max-width: 900px;
        background: #1111;
        display: flex;
        justify-content: space-between;
@@ -36,8 +38,7 @@
    }
    
    .nav-bar {
-       padding: 0 1rem;
-       
+       padding: 0 1rem;  
    }
    
    .nav-bar ul {
@@ -72,9 +73,7 @@
    }
    
    @media only screen and (max-width: 1100px) {
-       header {
-           padding: 0 30px;
-       }
+       
       #contact .contact-box .details-box {
            margin-top: 40px;
        }
