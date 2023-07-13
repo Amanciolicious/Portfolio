@@ -36,6 +36,7 @@ html, body {
    header .logo {
        font-size: 24px;
        font-weight: 800;
+       padding: 0 20px;
        color: #11101b;
    }
    
@@ -57,7 +58,7 @@ html, body {
        font-size: 15px;
        padding: 9px 15px;
        border-radius: 50px;
-      
+       margin: 0 2px;
        transition: .5s;
    }
    
