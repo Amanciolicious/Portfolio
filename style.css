@@ -36,7 +36,8 @@
    }
    
    .nav-bar {
-       padding-right: 100px;
+       padding: 0 1rem;
+       
    }
    
    .nav-bar ul {
