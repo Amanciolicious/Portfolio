@@ -432,7 +432,7 @@ html, body {
    
    #services .services-box .box-details {
        width: 240px;
-       padding: 60px 30px;
+       padding: 10px 30px 10px 30px;
        position: relative;
        height: 170px;
        margin: 8px;
