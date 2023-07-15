@@ -431,10 +431,10 @@ html, body {
    }
    
    #services .services-box .box-details {
-       width: 200px;
+       width: 240px;
        padding: 48px 50px;
        position: relative;
-       height: 140px;
+       height: 180px;
        margin: 10px;
        background: #dfdddd;
        box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
@@ -442,7 +442,7 @@ html, body {
    
    #services .services-box .box-details i {
        font-size: 2rem;
-       padding-bottom: 17px;
+       padding-bottom: 10px;
    }
    
    #services .services-box .box-details h2 {
