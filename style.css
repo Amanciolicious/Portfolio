@@ -199,9 +199,7 @@ html, body {
        #home .title img {
            margin-top: 10px;
        }
-       #home .brands-logo {
-           margin: 20px 0 0 0
-       }
+      
        #contact .contact-box .details-box {
            margin-top: 40px;
        }
@@ -273,7 +271,7 @@ html, body {
        flex-direction: column;
        z-index: 0;
        padding: 6px 20px;
-       margin: 0;
+       
    }
    
    #home .brands-logo i {
