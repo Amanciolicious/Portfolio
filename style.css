@@ -269,7 +269,8 @@ html, body {
        display: flex;
        z-index: 0;
        padding: 6px 20px;
-       transform: translate(-50px, -50px);
+       justify-content: flex-start;
+       flex-direction: column;
    }
    
    #home .brands-logo i {
