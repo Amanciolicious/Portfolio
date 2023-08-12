@@ -272,7 +272,7 @@ html, body {
        flex-direction: row;
        z-index: 0;
        padding: 6px 20px;
-       margin-bottom: 20px;
+       overflow: hidden;
    }
    
    #home .brands-logo i {
