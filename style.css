@@ -270,7 +270,7 @@ html, body {
        z-index: 0;
        padding: 6px 20px;
        justify-content: flex-start;
-       flex-direction: column;
+       flex-direction: row;
    }
    
    #home .brands-logo i {
