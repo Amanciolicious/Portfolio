@@ -267,11 +267,9 @@ html, body {
    #home .brands-logo {
        background: #1111;
        display: flex;
-       justify-content: flex-start;
-       flex-direction: column;
        z-index: 0;
        padding: 6px 20px;
-       
+       transform: translate(-50px, -50px);
    }
    
    #home .brands-logo i {
